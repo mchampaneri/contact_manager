@@ -1,0 +1,45 @@
+
+
+#commentForm {
+		width: 500px;
+	}
+#commentForm label {
+		width: 250px;
+	}
+#commentForm label.error, #commentForm input.submit {
+		
+	}
+#signupForm {
+		width: 670px;
+	}
+#signupForm label.error {
+		margin-left: 10px;
+		width: auto;
+		display: inline;
+	}
+#newsletter_topics label.error {
+		display: none;
+		margin-left: 103px;
+	}
+
+.error
+{
+	color: red;
+}
+
+
+.info-box
+{
+	font-size: 30px;
+	text-align: center;
+	color: #008;
+}
+
+input{
+	margin: 2px;
+}
+
+
+table th,td{
+	text-align: center;
+}
